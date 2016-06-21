@@ -2,5 +2,10 @@
 This line is added by RTSHAMAKHAN
 =======
 s This line is added by SHAMAAQUA
+<<<<<<< HEAD
 >>>>>>> 736f4ff1cbef685936bd76fcb60299511699d8ee
 This line 2 by RTSHAMAKHAN
+=======
+
+This line 2 by SHAMAAQUA
+>>>>>>> 08010aadf7f4a5c5a1b6ecc204f206ecf3254a92
