@@ -13,4 +13,8 @@ Line 3 RTSHAMAKHAN
 
 Line 3 SHAMAAQUA
 
+<<<<<<< HEAD
 Line 4 by SHAMAAQUA
+=======
+LINE 4 RTSHAMAKHAN
+>>>>>>> origin/master
